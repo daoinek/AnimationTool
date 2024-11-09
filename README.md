@@ -28,9 +28,9 @@ Swift Package Manager
 <a name="usage"></a>
 # Usage
 
-At first, import GodAnimation in your swift file.
+At first, import AnimationTool in your swift file.
 ```sh
-import "GodAnimation"
+import "AnimationTool"
 ```
 
 <a name="view"></a>
