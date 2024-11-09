@@ -22,7 +22,7 @@ Simple animation for your views and cells
 Swift Package Manager
 
 - File > Swift Packages > Add Package Dependency
-- Add https://github.com/daoinek/LanScan.git
+- Add https://github.com/daoinek/AnimationTool.git
 
 
 <a name="usage"></a>
