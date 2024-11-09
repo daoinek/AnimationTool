@@ -1,4 +1,4 @@
-# GodAnimation
+# AnimationTool
 Simple animation for your views and cells
 
 [![Generic badge](https://cocoapod-badges.herokuapp.com/v/GodAnimation/0.0.1/badge.png)](https://cocoapods.org/pods/GodAnimation)
